@@ -1,4 +1,6 @@
-class Solution {
+import java.util.HashMap;
+
+class romanToInt_13 {
     
     public static int romanToInt(String s) {
         int number=0;
